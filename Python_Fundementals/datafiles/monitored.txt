@@ -1,0 +1,4 @@
+openntpd
+bind
+apache2
+mysql
